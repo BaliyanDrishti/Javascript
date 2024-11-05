@@ -5,6 +5,7 @@
 // 80-89 -> B
 //90-100 -> A
 
+
 const marks = [90, 90, 50];
 
 console.log(calculateGrade(marks));
