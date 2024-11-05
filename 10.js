@@ -5,6 +5,7 @@ const movie ={
     director: 'b'
 };
 
+
 showProperties(movie);
 
 function showProperties(obj){
