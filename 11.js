@@ -1,6 +1,7 @@
 //multiple of 3 :3,6,9
 //multiple of 5: 5,10
 
+
 console.log(sum(10));
 function sum(limit){
     let sums=0;
